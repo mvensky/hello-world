@@ -22,3 +22,4 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
+So now, autoscaling and Jenkins/Gitlab integration are done; at least theoretically.
